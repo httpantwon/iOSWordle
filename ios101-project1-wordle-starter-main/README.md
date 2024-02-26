@@ -27,6 +27,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 [Guide](https://www.loom.com/share/838baed4207445919377e83add833520?sid=636f9952-2013-4701-8924-a1058d9809e1)
+[App on Device](https://imgur.com/a/Od3fk2j)
 
 
 ## Notes
